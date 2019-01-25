@@ -1,0 +1,12 @@
+{
+  "formatVersion" : 1,
+  "passTypeIdentifier" : "pass.com.betzsoftware.Karma",
+  "serialNumber" : "p69f2J",
+  "teamIdentifier" : "8NENDJWV6C",
+  "organizationName" : "Betz Software",
+  "description" : "Hacker News Karma Pass",
+  "logoText" : "Karma Pass",
+  "foregroundColor" : "rgb(255, 102, 0)",
+  "backgroundColor" : "rgb(246, 246, 239)",
+  "storeCard" : {}
+}
