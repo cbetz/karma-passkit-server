@@ -2,7 +2,7 @@ const express = require('express')
 const request = require('request')
 const { Pass } = require('passkit-generator')
 const app = express()
-const port = 3000
+const port = process.env.PORT || 8080
 const secrets = require('./secrets.json')
 
 app.get('/', (req, res) => res.send('Hello World!'))
